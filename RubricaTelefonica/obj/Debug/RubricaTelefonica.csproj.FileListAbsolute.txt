@@ -1,0 +1,10 @@
+C:\Users\Manuel\Desktop\RubricaTelefonica\obj\Debug\RubricaTelefonica.csprojAssemblyReference.cache
+C:\Users\Manuel\Desktop\RubricaTelefonica\obj\Debug\RubricaTelefonica.MainForm.resources
+C:\Users\Manuel\Desktop\RubricaTelefonica\obj\Debug\RubricaTelefonica.Properties.Resources.resources
+C:\Users\Manuel\Desktop\RubricaTelefonica\obj\Debug\RubricaTelefonica.csproj.GenerateResource.cache
+C:\Users\Manuel\Desktop\RubricaTelefonica\obj\Debug\RubricaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\RubricaTelefonica\bin\Debug\RubricaTelefonica.exe.config
+C:\Users\Manuel\Desktop\RubricaTelefonica\bin\Debug\RubricaTelefonica.exe
+C:\Users\Manuel\Desktop\RubricaTelefonica\bin\Debug\RubricaTelefonica.pdb
+C:\Users\Manuel\Desktop\RubricaTelefonica\obj\Debug\RubricaTelefonica.exe
+C:\Users\Manuel\Desktop\RubricaTelefonica\obj\Debug\RubricaTelefonica.pdb
